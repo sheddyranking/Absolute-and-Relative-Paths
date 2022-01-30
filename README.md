@@ -1,11 +1,10 @@
 # Absolute-and-Relative-Paths
 
-
 ABSOLUTE IMPORTS/PATH
 #use this approach when you are triversing within and outside the folder
 
 Examples in package1 file 1
-from package1 import file2 #absolute import
+from package1 import file2 
 from package1.sub_package import file
 from package2 import file1
 
